@@ -1,1 +1,1 @@
-The main website of TypeScript libraries.
+The main website for TypeScript libraries.

@@ -1,0 +1,13 @@
+exclude:
+  - node_modules
+
+sass:
+  style: :compressed
+
+theme: jekyll-theme-primer
+
+github:
+  private: true
+
+title: TypeScriptLibs.org
+description: Libraries for TypeScript

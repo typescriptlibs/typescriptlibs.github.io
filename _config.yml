@@ -4,7 +4,7 @@ exclude:
 sass:
   style: :compressed
 
-theme: jekyll-theme-primer
+theme: typescriptlibs/typescriptlibs.github.theme
 
 github:
   private: true

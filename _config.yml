@@ -4,7 +4,7 @@ exclude:
 sass:
   style: :compressed
 
-theme: typescriptlibs/typescriptlibs.github.theme
+remote_theme: typescriptlibs/typescriptlibs.github.theme
 
 github:
   private: true

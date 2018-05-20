@@ -9,5 +9,6 @@ remote_theme: typescriptlibs/typescriptlibs.github.theme
 github:
   private: true
 
-title: TypeScriptLibs.org
-description: Libraries for TypeScript
+site:
+  title: TypeScript Libraries
+  description: Libraries for TypeScript

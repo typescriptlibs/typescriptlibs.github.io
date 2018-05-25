@@ -1,14 +1,17 @@
 exclude:
-  - node_modules
+    - node_modules
 
 sass:
-  style: :compressed
+    style: :compressed
+
+plugins:
+    - jekyll-remote-theme
 
 remote_theme: typescriptlibs/typescriptlibs.github.theme
 
 github:
-  private: true
+    private: true
 
 site:
-  title: TypeScript Libraries
-  description: Libraries for TypeScript
+    title: TypeScript Libraries
+    description: Libraries for TypeScript

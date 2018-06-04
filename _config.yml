@@ -4,7 +4,7 @@ description: Libraries for TypeScript
 github:
     private: true
 
-remote-theme: typescriptlibs/typescriptlibs.github.theme
+remote_theme: typescriptlibs/typescriptlibs.github.theme
 
 sass:
     style: :compressed

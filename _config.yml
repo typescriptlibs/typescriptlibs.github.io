@@ -4,7 +4,7 @@ description: Libraries for TypeScript
 github:
     private: true
 
-theme: jekyll-theme-primer
+remote-theme: typescriptlibs/typescriptlibs.github.theme
 
 sass:
     style: :compressed

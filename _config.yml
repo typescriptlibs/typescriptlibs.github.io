@@ -1,17 +1,11 @@
-exclude:
-    - node_modules
+theme: jekyll-theme-cayman
 
 sass:
     style: :compressed
-
-plugins:
-    - jekyll-remote-theme
-
-github:
-    private: true
 
 site:
     title: TypeScript Libraries
     description: Libraries for TypeScript
 
-theme: jekyll-theme-cayman
+github:
+    private: true

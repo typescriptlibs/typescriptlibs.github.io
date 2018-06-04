@@ -14,9 +14,8 @@ body > div.markdown-body > h1:first-child {
 
 body > div.markdown-body a {
     color: inherit;
-    text-decoration: underline;
 }
 
 body > div.markdown-body a[target]:before {
-	content: '[+] ';
+    content: '[+] ';
 }

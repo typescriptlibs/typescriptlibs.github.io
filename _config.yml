@@ -7,8 +7,6 @@ sass:
 plugins:
     - jekyll-remote-theme
 
-remote_theme: typescriptlibs/typescriptlibs.github.theme
-
 github:
     private: true
 

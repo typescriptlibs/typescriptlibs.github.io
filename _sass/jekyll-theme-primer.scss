@@ -12,8 +12,12 @@ body > div.markdown-body > h1:first-child {
     text-align: center;
 }
 
-body > div.markdown-body a {
+body > div.markdown-body > h1:first-child a {
     color: inherit;
+}
+
+body > div.markdown-body a {
+    color: #306;
 }
 
 body > div.markdown-body a[target]:before {

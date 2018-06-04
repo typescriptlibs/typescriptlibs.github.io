@@ -11,10 +11,12 @@ body > div.markdown-body > h1:first-child {
     padding: 0.3em 0.5em;
     text-align: center;
 }
-body > div.markdown-body > h1:first-child a {
-    color: inherit;
-}
 
 body > div.markdown-body a {
-    color: #609;
+    color: inherit;
+    text-decoration: underline;
+}
+
+body > div.markdown-body a[target]:before {
+	content: '[+] ';
 }

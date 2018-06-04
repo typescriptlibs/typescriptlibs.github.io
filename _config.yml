@@ -15,3 +15,5 @@ github:
 site:
     title: TypeScript Libraries
     description: Libraries for TypeScript
+
+theme: jekyll-theme-cayman

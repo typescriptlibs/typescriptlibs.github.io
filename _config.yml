@@ -3,9 +3,9 @@ theme: jekyll-theme-cayman
 sass:
     style: :compressed
 
-site:
-    title: TypeScript Libraries
-    description: Libraries for TypeScript
-
 github:
     private: true
+
+title: TypeScript Libraries
+description: Libraries for TypeScript
+show_downloads: false

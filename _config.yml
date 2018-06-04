@@ -1,11 +1,14 @@
-theme: jekyll-theme-cayman
-
-sass:
-    style: :compressed
+title: TypeScript Libraries
+description: Libraries for TypeScript
 
 github:
     private: true
 
-title: TypeScript Libraries
-description: Libraries for TypeScript
-show_downloads: false
+theme: jekyll-theme-primer
+
+sass:
+    style: :compressed
+
+exclude:
+    - node_modules
+    - script

@@ -1,0 +1,19 @@
+@import "primer-support/index.scss";
+@import "primer-base/index.scss";
+@import "primer-utilities/index.scss";
+@import "primer-layout/index.scss";
+@import "primer-markdown/index.scss";
+@import "rouge";
+
+body > div.markdown-body > h1:first-child {
+    background-color: #609;
+    color: #FFF;
+    padding: 0.3em 0.5em;
+}
+body > div.markdown-body > h1:first-child a {
+    color: inherit;
+}
+
+body > div.markdown-body > a {
+    color: #609;
+}

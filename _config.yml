@@ -1,17 +1,20 @@
 title: TypeScript Libraries
 description: Libraries for TypeScript
+author: TypeScriptLibs
+email: your-email@domain.com
+github_username:  typescriptlibs
+rss: rss
+show_excerpts: false
 
 github:
     private: true
 
 plugins:
-  - jekyll-remote-theme
+ - jekyll-feed
+ - jekyll-remote-theme
+ - jekyll-seo-tag
 
 remote_theme: typescriptlibs/minimtest
 
-sass:
-    style: :compressed
-
-exclude:
-    - node_modules
-    - script
+minima:
+  date_format: "%b %-d, %Y"

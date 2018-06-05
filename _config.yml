@@ -7,7 +7,7 @@ github:
 plugins:
   - jekyll-remote-theme
 
-remote_theme: typescriptlibs/typescriptlibs.github.theme
+remote_theme: typescriptlibs/minimtest
 
 sass:
     style: :compressed

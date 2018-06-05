@@ -1,9 +1,10 @@
 title: TypeScript Libraries
 description: Libraries for TypeScript
 author: TypeScriptLibs
-email: your-email@domain.com
+email: bug@typescriptlibs.org
 github_username:  typescriptlibs
 rss: rss
+
 show_excerpts: false
 
 github:
@@ -11,10 +12,9 @@ github:
 
 plugins:
  - jekyll-feed
- - jekyll-remote-theme
  - jekyll-seo-tag
 
-remote_theme: typescriptlibs/minimatest
+theme: minima
 
 minima:
-  date_format: "%b %-d, %Y"
+  date_format: "%Y-%m-%d"

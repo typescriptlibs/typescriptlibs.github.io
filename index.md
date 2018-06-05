@@ -38,5 +38,3 @@ Core types for system frameworks
 | [v0.0.1.tgz](npm/tsl-system-core/v0.0.1.tgz) | [5422f0e06e0ea5430143589521de3d4d016eb1e8](npm/tsl-system-core/v0.0.1.sha1) |
 
 ---
-
-###### © TypeScriptLibs.org

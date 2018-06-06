@@ -1,4 +1,4 @@
-title: TypeScript Libraries
+title: TypeScriptLibs
 description: Libraries for TypeScript
 author: © TypeScriptLibs
 email: bug@typescriptlibs.org
@@ -9,6 +9,10 @@ show_excerpts: false
 
 github:
     private: true
+
+header_pages:
+ - license.md
+ - index.md
 
 plugins:
  - jekyll-feed

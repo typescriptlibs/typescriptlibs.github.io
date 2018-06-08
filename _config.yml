@@ -11,7 +11,7 @@ github:
     private: true
 
 header_pages:
- - support/
+ - support/index.md
  - index.md
 
 plugins:

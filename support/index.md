@@ -11,15 +11,15 @@ title: Support
 
 ## Frequently Asked Questions (FAQ)
 
-### What license use libaries by TypeScriptLibs?
+### What license do libraries by TypeScriptLibs use?
 
-> Most libraries are licensed under the [MIT](license.md). If a library uses an
-> other license, you will find this noted near the download links and on the
+> Most libraries are licensed under the [MIT](license.md) license. If a library
+> uses an other license, you find this noted near the download links and on the
 > individual library page.
 
 ### How is my personal data used by TypeScriptLibs?
 
-> TypeScriptLibs does use personal data only for fulfilling a web request like
+> TypeScriptLibs use personal data only for fulfilling a web request like
 > showing a web page or offering a download. GitHub and Microsoft as the service
 > provider for TypeScriptLibs might process and store your personal data, as
 > stated in the [GitHub Privacy Statement](https://help.github.com/articles/github-privacy-statement/).

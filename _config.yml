@@ -11,8 +11,8 @@ github:
     private: true
 
 header_pages:
+ - support/
  - index.md
- - license.md
 
 plugins:
  - jekyll-feed

@@ -5,7 +5,10 @@ email: bug@typescriptlibs.org
 github_username:  typescriptlibs
 rss: rss
 
-show_excerpts: false
+feed_meta: |
+  <link type="application/atom+xml" rel="alternate" href="https://typescriptlibs.org/feed.xml" title="TypeScriptLibs">
+	<link rel="apple-touch-icon" href="assets/appicon.png" />
+	<link rel="mask-icon" href="assets/pinicon.svg" color="#609" />
 
 github:
     private: true
@@ -14,11 +17,13 @@ header_pages:
  - support/index.md
  - index.md
 
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
+show_excerpts: false
 
 theme: minima
 
 minima:
   date_format: "%Y-%m-%d"
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag

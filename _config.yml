@@ -1,15 +1,11 @@
+url: https://typescriptlibs.org
 title: TypeScriptLibs
 description: Libraries for TypeScript
 author: © TypeScriptLibs
+
 email: bug@typescriptlibs.org
 github_username:  typescriptlibs
 rss: rss
-
-feed_meta: '
-  <link type="application/atom+xml" rel="alternate" href="https://typescriptlibs.org/feed.xml" title="TypeScriptLibs">
-  <link rel="apple-touch-icon" href="assets/appicon.png" />
-  <link rel="mask-icon" href="assets/pinicon.svg" color="#609" />
-'
 
 github:
   private: true
@@ -28,3 +24,4 @@ minima:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap

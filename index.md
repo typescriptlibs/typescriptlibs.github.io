@@ -8,7 +8,7 @@ list_title: News
 
 ## Apple
 
-### [CloudKit v0.2.19](/tsl-apple-cloudkit/)
+### [CloudKit v0.2.20](/tsl-apple-cloudkit/)
 
 CloudKit JS v2 type declarations for TypeScript
 

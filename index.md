@@ -17,6 +17,14 @@ Package: [tsl-apple-cloudkit.tgz](https://typescriptlibs.org/npm/tsl-apple-cloud
 
 
 
+## Mastodon
+
+### [Mastodon API](/tsl-mastodon-api/)
+
+TypeScript Library for the Mastodon API
+
+
+
 ## System
 
 ### [Core Preview](/tsl-system-core/)

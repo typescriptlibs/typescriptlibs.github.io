@@ -1,3 +1,6 @@
+<h2><a href="/tsl-apple-cloudkit/">tsl-apple-cloudkit</a></h2>
+
+<h1>Apple CloudKit TypeScript Library</h1>
 <table>
     <thead>
         <tr>
@@ -11,7 +14,7 @@
                 <a href="https://typescriptlibs.org/npm/tsl-apple-cloudkit/v{{ item.version }}.tgz">v{{ item.version }}.tgz</a>
             </td>
             <td>
-                <a href="https://typescriptlibs.org/npm/tsl-apple-cloudkit/v{{ item.version }}.sha1">v{{ item.version }}.tgz</a>
+                <a href="https://typescriptlibs.org/npm/tsl-apple-cloudkit/v{{ item.version }}.sha1">{{ item.checksum }}</a>
             </td>
         </tr>
     {% endfor %}</tbody>

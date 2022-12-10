@@ -1,9 +1,5 @@
----
-layout: default
-title: License
----
-
-## MIT License
+MIT License
+===========
 
 Copyright (c) TypeScriptLibs and Contributors
 

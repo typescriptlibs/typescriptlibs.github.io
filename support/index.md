@@ -1,19 +1,14 @@
----
-layout: default
-title: Support
----
+Support
+=======
 
 
 
-# Support
-
-
-
-## Frequently Asked Questions (FAQ)
+Frequently Asked Questions (FAQ)
+--------------------------------
 
 ### What license do libraries by TypeScriptLibs use?
 
-> The libraries are licensed under the [MIT](license.md) license. If a library
+> The libraries are licensed under the [MIT](../LICENSE.md) license. If a library
 uses a different license, you find this noted near the download links and on the
 individual library page.
 

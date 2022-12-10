@@ -17,7 +17,10 @@ header_pages:
   - index.md
 
 include:
+  - LICENSE.md
   - package/tsl-apple-cloudkit.md
+  - package/tsl-mastodon-api.md
+  - package/tst.md
 
 plugins:
   - jekyll-feed

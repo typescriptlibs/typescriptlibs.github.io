@@ -19,7 +19,7 @@ Mastodon
 - [Mastodon API](/tsl-mastodon-api/)
   ([Download v{{ site.data.tsl-mastodon-api[0].version }}](/npm/tsl-mastodon-api.tgz),
   [More](/package/tsl-mastodon-api.html))  
-  TypeScript Library for the Mastodon API
+  TypeScript library for the Mastodon API
 
 
 

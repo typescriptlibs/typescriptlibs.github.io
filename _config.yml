@@ -29,7 +29,5 @@ theme: minima
 minima:
   date_format: "%Y-%m-%d"
   skin: classic
-
-minima:
   social_links:
     - { platform: website,  user_url: "https://typescriplibs.org/" }

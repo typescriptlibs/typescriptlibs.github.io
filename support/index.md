@@ -8,7 +8,7 @@ Frequently Asked Questions (FAQ)
 
 ### What license do libraries by TypeScriptLibs use?
 
-> The libraries are licensed under the [MIT license](../LICENSE.md). If a library
+> The libraries are licensed under the [MIT license](../LICENSE.html). If a library
 uses a different license, you find this noted near the download links and on the
 individual library page.
 

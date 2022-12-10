@@ -6,7 +6,7 @@ All Libraries
 Apple
 -----
 
-- [CloudKit](/tsl-apple-cloudkit/)
+- [tsl-apple-cloudkit](/tsl-apple-cloudkit/)
   ([Download v{{ site.data.tsl-apple-cloudkit[0].version }}](/npm/tsl-apple-cloudkit.tgz),
   [More](/package/tsl-apple-cloudkit.html))  
   CloudKit JS v2 type declarations for TypeScript
@@ -16,7 +16,7 @@ Apple
 Mastodon
 --------
 
-- [Mastodon API](/tsl-mastodon-api/)
+- [tsl-mastodon-api](/tsl-mastodon-api/)
   ([Download v{{ site.data.tsl-mastodon-api[0].version }}](/npm/tsl-mastodon-api.tgz),
   [More](/package/tsl-mastodon-api.html))  
   TypeScript library for the Mastodon API

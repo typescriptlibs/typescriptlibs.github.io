@@ -1,3 +1,5 @@
+# GitHub Pages config
+
 url: https://typescriptlibs.org
 title: TypeScriptLibs
 description: TypeScript Libraries and Tools
@@ -19,8 +21,8 @@ include:
 
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag 
-  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-titles-from-headings
 
 show_excerpts: false
 

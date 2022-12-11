@@ -1,4 +1,4 @@
-<h1><a class="site-title" href="/tsl-apple-cloudkit/">Apple CloudKit TypeScript Library</a></h1>
+<h1><a href="/tsl-apple-cloudkit/">Apple CloudKit TypeScript Library</a></h1>
 <p>
 TypeScript declarations for CloudKit JS v2
 </p>

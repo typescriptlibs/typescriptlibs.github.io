@@ -9,8 +9,8 @@ Apple
 - [tsl-apple-cloudkit](/tsl-apple-cloudkit/)
   ([Download v{{ site.data.tsl-apple-cloudkit[0].version }}](/npm/tsl-apple-cloudkit.tgz),
   [More](/package/tsl-apple-cloudkit.html))  
-  CloudKit JS v2 type declarations for TypeScript
-  
+  TypeScript declarations for CloudKit JS v2
+
 
 
 Mastodon

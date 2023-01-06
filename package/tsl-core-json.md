@@ -1,4 +1,4 @@
-<h1><a class="site-title" href="/tsl-core-json/">TypeScript Library for JSON</a></h1>
+<h1><a class="site-title" href="/tsl-core-json/">JSON TypeScript Library</a></h1>
 <table>
     <thead>
         <tr>
@@ -9,10 +9,10 @@
     <tbody>{% for item in site.data.tsl-core-json %}
         <tr>
             <td>
-                <a href="https://typescriptlibs.org/npm/tsl-core-json/tsl-core-json-{{ item.version }}.tgz">v{{ item.version }}.tgz</a>
+                <a href="https://typescriptlibs.org/npm/tsl-core-json/tsl-core-json-{{ item.version }}.tgz">tsl-core-json-{{ item.version }}.tgz</a>
             </td>
             <td>
-                <a href="https://typescriptlibs.org/npm/tsl-core-json/tsl-core-json-{{ item.version }}.sha1">{{ item.checksum }}</a>
+                {{ item.checksum }}
             </td>
         </tr>
     {% endfor %}</tbody>

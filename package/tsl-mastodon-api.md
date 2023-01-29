@@ -12,7 +12,7 @@
                 <a href="https://registry.npmjs.org/tsl-mastodon-api/-/tsl-mastodon-api-{{ item.version }}.tgz">tsl-mastodon-api-{{ item.version }}.tgz</a>
             </td>
             <td>
-                {{ item.checksum }}</a>
+                {{ item.checksum }}
             </td>
         </tr>
     {% endfor %}</tbody>

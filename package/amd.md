@@ -1,4 +1,4 @@
-<h1><a class="site-title" href="/amd/">AMD: TypeScript AMD loader</a></h1>
+<h1><a class="site-title" href="/amd/">AMD: TypeScript AMD Loader</a></h1>
 <table>
     <thead>
         <tr>

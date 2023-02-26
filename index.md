@@ -36,7 +36,7 @@ Mastodon
 Tools
 -----
 
-- [AMD: TypeScript AMD](/amd/)
+- [AMD: TypeScript AMD loader](/amd/)
   ([Download v{{ site.data.amd[0].version }}](https://registry.npmjs.org/@typescriptlibs/amd/-/amd-{{ site.data.amd[0].version }}.tgz),
   [More](/package/amd.html))  
   Basic loader for TypeScript AMD bundles

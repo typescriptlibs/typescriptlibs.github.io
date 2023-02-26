@@ -9,10 +9,10 @@
     <tbody>{% for item in site.data.tst %}
         <tr>
             <td>
-                <a href="https://typescriptlibs.org/npm/tst/v{{ item.version }}.tgz">v{{ item.version }}.tgz</a>
+                <a href="https://registry.npmjs.org/@typescriptlibs/tst/-/tst-{{ item.version }}.tgz">tst-{{ item.version }}.tgz</a>
             </td>
             <td>
-                <a href="https://typescriptlibs.org/npm/tst/v{{ item.version }}.sha1">{{ item.checksum }}</a>
+                {{ item.checksum }}
             </td>
         </tr>
     {% endfor %}</tbody>

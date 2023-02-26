@@ -1,4 +1,4 @@
-<h1><a class="site-title" href="/tsl-mastodon-api/">TypeScript AMD</a></h1>
+<h1><a class="site-title" href="/amd/">AMD: TypeScript AMD loader</a></h1>
 <table>
     <thead>
         <tr>
@@ -9,7 +9,7 @@
     <tbody>{% for item in site.data.amd %}
         <tr>
             <td>
-                <a href="https://registry.npmjs.org/@typescriptlibs/amd/-/amd-{{ item.version }}.tgz">tsl-mastodon-api-{{ item.version }}.tgz</a>
+                <a href="https://registry.npmjs.org/@typescriptlibs/amd/-/amd-{{ item.version }}.tgz">amd-{{ item.version }}.tgz</a>
             </td>
             <td>
                 {{ item.checksum }}

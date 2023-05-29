@@ -39,7 +39,12 @@ Tools
 - [AMD: TypeScript AMD Loader](/amd/)
   ([Download v{{ site.data.amd[0].version }}](https://registry.npmjs.org/@typescriptlibs/amd/-/amd-{{ site.data.amd[0].version }}.tgz),
   [More](/package/amd.html))  
-  Basic loader to run TypeScript AMD bundles.
+  Basic loader to run TypeScript AMD bundles
+
+- [SVR: Simple HTTP(S) Server](/svr/)
+  ([Download v{{ site.data.svr[0].version }}](https://registry.npmjs.org/@typescriptlibs/svr/-/svr-{{ site.data.svr[0].version }}.tgz),
+  [More](/package/svr.html))  
+  Simple server to run local browser tests
 
 - [TST: TypeScript Tester](/tst/)
   ([Download v{{ site.data.tst[0].version }}](https://registry.npmjs.org/@typescriptlibs/tst/-/tst-{{ site.data.tst[0].version }}.tgz),

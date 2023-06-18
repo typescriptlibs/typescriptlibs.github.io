@@ -2,7 +2,7 @@
 <table>
     <thead>
         <tr>
-            <th>Node Package</th>
+            <th>Node.js Package</th>
             <th>SHA1 Checksum</th>
         </tr>
     </thead>

@@ -41,7 +41,7 @@ Tools
   [More](/package/amd.html))  
   Basic loader to run TypeScript AMD bundles
 
-- [SVR: Simple HTTP(S) Server](/svr/)
+- [Svr: Simple HTTP(S) Server](/svr/)
   ([Download v{{ site.data.svr[0].version }}](https://registry.npmjs.org/@typescriptlibs/svr/-/svr-{{ site.data.svr[0].version }}.tgz),
   [More](/package/svr.html))  
   Simple server to run local browser tests

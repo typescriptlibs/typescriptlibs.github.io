@@ -1,8 +1,8 @@
-<h1><a class="site-title" href="/svr/">SVR: Simple HTTP(S) Server</a></h1>
+<h1><a class="site-title" href="/svr/">Svr: Simple HTTP(S) Server</a></h1>
 <table>
     <thead>
         <tr>
-            <th>Node Package</th>
+            <th>Node.js Package</th>
             <th>SHA1 Checksum</th>
         </tr>
     </thead>

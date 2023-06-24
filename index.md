@@ -17,12 +17,12 @@ Core
 ----
 
 - [tsl-core-json](/tsl-core-json/)
-  ([Download v{{ site.data.tsl-core-json[0].version }}](/npm/tsl-core-json.tgz),
+  ([Download v{{ site.data.tsl-core-json[0].version }}](https://registry.npmjs.org/tsl-core-json/tsl-core-json-{{ site.data.amd[0].version }}.tgz),
   [More](/package/tsl-core-json.html))  
   TypeScript library for JSON
 
 - [tsl-core-xml](/tsl-core-xml/)
-  ([Download v{{ site.data.tsl-core-xml[0].version }}](/npm/tsl-core-xml.tgz),
+  ([Download v{{ site.data.tsl-core-xml[0].version }}](https://registry.npmjs.org/tsl-core-xml/tsl-core-xml-{{ site.data.amd[0].version }}.tgz),
   [More](/package/tsl-core-xml.html))  
   TypeScript library for XML
 

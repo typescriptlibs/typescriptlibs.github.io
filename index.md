@@ -14,12 +14,17 @@ Apple
 
 
 Core
---------
+----
 
 - [tsl-core-json](/tsl-core-json/)
   ([Download v{{ site.data.tsl-core-json[0].version }}](/npm/tsl-core-json.tgz),
   [More](/package/tsl-core-json.html))  
   TypeScript library for JSON
+
+- [tsl-core-xml](/tsl-core-xml/)
+  ([Download v{{ site.data.tsl-core-xml[0].version }}](/npm/tsl-core-xml.tgz),
+  [More](/package/tsl-core-xml.html))  
+  TypeScript library for XML
 
 
 

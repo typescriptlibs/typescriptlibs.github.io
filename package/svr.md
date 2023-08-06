@@ -1,4 +1,4 @@
-<h1><a class="site-title" href="/svr/">Svr: Simple HTTP(S) Server</a></h1>
+<h1 class="page-heading"><a href="/svr/">Svr: Simple HTTP(S) Server</a></h1>
 <table>
     <thead>
         <tr>

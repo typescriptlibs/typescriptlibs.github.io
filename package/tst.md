@@ -1,4 +1,4 @@
-<h1><a class="site-title" href="/tst/">TST: TypeScript Tester</a></h1>
+<h1 class="page-heading"><a href="/tst/">TST: TypeScript Tester</a></h1>
 <table>
     <thead>
         <tr>

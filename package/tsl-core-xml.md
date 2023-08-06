@@ -1,4 +1,6 @@
-<h1 class="page-heading"><a href="/tsl-core-xml/">XML TypeScript Library</a></h1>
+[XML TypeScript Library](/tsl-core-xml/)
+========================================
+
 <table>
     <thead>
         <tr>

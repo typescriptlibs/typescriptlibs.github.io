@@ -1,4 +1,6 @@
-<h1 class="page-heading"><a href="/tsl-core-json/">JSON TypeScript Library</a></h1>
+[JSON TypeScript Library](/tsl-core-json/)
+==========================================
+
 <table>
     <thead>
         <tr>

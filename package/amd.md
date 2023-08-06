@@ -1,4 +1,6 @@
-<h1 class="page-heading"><a href="/amd/">AMD: TypeScript AMD Loader</a></h1>
+[AMD: TypeScript AMD Loader](/amd/)
+===================================
+
 <table>
     <thead>
         <tr>

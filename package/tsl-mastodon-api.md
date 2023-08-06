@@ -1,4 +1,6 @@
-<h1 class="page-heading"><a href="/tsl-mastodon-api/">Mastodon TypeScript Library</a></h1>
+[Mastodon TypeScript Library](/tsl-mastodon-api/)
+=================================================
+
 <table>
     <thead>
         <tr>

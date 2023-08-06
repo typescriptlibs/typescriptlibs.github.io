@@ -1,7 +1,7 @@
-<h1 class="page-heading"><a href="/tsl-apple-cloudkit/">Apple CloudKit TypeScript Library</a></h1>
-<p>
+[Apple CloudKit TypeScript Library](/tsl-apple-cloudkit/)
+=========================================================
+
 TypeScript declarations for CloudKit JS v2
-</p>
 
 <table>
     <thead>

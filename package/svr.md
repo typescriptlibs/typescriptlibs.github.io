@@ -1,4 +1,6 @@
-<h1 class="page-heading"><a href="/svr/">Svr: Simple HTTP(S) Server</a></h1>
+[Svr: Simple HTTP(S) Server](/svr/)
+===================================
+
 <table>
     <thead>
         <tr>

@@ -1,7 +1,10 @@
+title: Package Downloads
+---
+
 <h2><a href="/tst/">TST: TypeScript Tester</a></h2>
 
 <p>
-Package downloads for the TypeScript Tester.
+Package Downloads
 </p>
 
 <table>

@@ -1,8 +1,8 @@
-Package Downloads
-=================
+<h2><a href="/tst/">TST: TypeScript Tester</a></h2>
 
-[TST: TypeScript Tester](/tst/)
--------------------------------
+<p>
+Package downloads for the TypeScript Tester.
+</p>
 
 <table>
     <thead>

@@ -11,7 +11,7 @@
     <tbody>{% for item in site.data.tsl-core-xml %}
         <tr>
             <td>
-                <a href="https://registry.npmjs.org/tsl-core-xml/tsl-core-xml-{{ item.version }}.tgz">tsl-core-xml-{{ item.version }}.tgz</a>
+                <a href="https://registry.npmjs.org/tsl-core-xml/-/tsl-core-xml-{{ item.version }}.tgz">tsl-core-xml-{{ item.version }}.tgz</a>
             </td>
             <td>
                 {{ item.checksum }}

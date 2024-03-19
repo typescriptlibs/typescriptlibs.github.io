@@ -36,6 +36,10 @@ Mastodon
   [More](/package/tsl-mastodon-api.html))  
   TypeScript library for the Mastodon API
 
+- [tsl-mastodon-cli](/tsl-mastodon-cli/)
+  ([Download v{{ site.data.tsl-mastodon-cli[0].version }}](https://registry.npmjs.org/tsl-mastodon-cli/-/tsl-mastodon-cli-{{ site.data.tsl-mastodon-cli[0].version }}.tgz),
+  [More](/package/tsl-mastodon-cli.html))  
+  TypeScript library of the Mastodon CLI
 
 
 Tools

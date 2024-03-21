@@ -21,6 +21,11 @@ Core
   [More](/package/tsl-core-json.html))  
   TypeScript library for JSON
 
+- [tsl-core-rss](/tsl-core-rss/)
+  ([Download v{{ site.data.tsl-core-rss[0].version }}](https://registry.npmjs.org/tsl-core-rss/-/tsl-core-rss-{{ site.data.tsl-core-rss[0].version }}.tgz),
+  [More](/package/tsl-core-rss.html))  
+  TypeScript library for RSS
+
 - [tsl-core-xml](/tsl-core-xml/)
   ([Download v{{ site.data.tsl-core-xml[0].version }}](https://registry.npmjs.org/tsl-core-xml/-/tsl-core-xml-{{ site.data.tsl-core-xml[0].version }}.tgz),
   [More](/package/tsl-core-xml.html))  

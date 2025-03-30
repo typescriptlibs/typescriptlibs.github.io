@@ -7,6 +7,10 @@ a:visited {
     border-top-color: #609;
 }
 
+.site-header .nav-item:nth-child(n+5) {
+    display: none;
+}
+
 .feed-subscribe {
     display: none;
 }

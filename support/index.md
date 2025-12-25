@@ -26,4 +26,4 @@ stated in the [Posteo Privacy Policy](https://posteo.de/en/site/privacy_policy).
 ### How can I contact you?
 
 > You can contact TypeScriptLibs via [GitHub](https://github.com/typescriptlibs)
-or by email to [bug@typescriptlibs.org](mailto:bug@typescriptlibs.org).
+or by email to [bug@typescriptlibs.eu](mailto:bug@typescriptlibs.eu).

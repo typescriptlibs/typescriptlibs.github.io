@@ -1,11 +1,11 @@
 # GitHub Pages config
 
-url: https://www.typescriptlibs.org
+url: https://www.typescriptlibs.eu
 title: TypeScriptLibs
 description: TypeScript libraries and tools
 author:
   name: © TypeScriptLibs and Contributors
-  email: bug@typescriptlibs.org
+  email: bug@typescriptlibs.eu
 
 github:
   private: true

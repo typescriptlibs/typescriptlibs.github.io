@@ -47,6 +47,7 @@ Our open source community strive to:
   understanding of a productive, collaborative environment. We expect the code
   to be followed in spirit as much as in the letter.
 
+===
 
 Scope
 -----
@@ -91,3 +92,7 @@ review team.
 Anyone asked to stop unacceptable behavior is expected to comply immediately. If
 an individual engages in unacceptable behavior, the review team may take any
 action they deem appropriate, including a permanent ban from the community.
+
+---
+
+Version 2025-12-26

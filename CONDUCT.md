@@ -66,7 +66,7 @@ Reporting Code of Conduct Issues
 We encourage all projects to resolve issues on their own whenever possible. This
 builds a broader and deeper understanding and ultimately a healthier
 interaction. In the event that an issue cannot be resolved locally, please feel
-free to report your concerns by contacting conduct@typescriptlibs.org.
+free to report your concerns by contacting conduct@typescriptlibs.eu.
 
 In your report please include:
 
